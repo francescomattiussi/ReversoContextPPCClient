@@ -10,7 +10,7 @@ Questa applicazione è un esercizio di stile nella programmazione su macchine e 
 
 Cercando questa convergenza tra l'attuale e il non, ho voluto portare il servizio di traduzione Reverso su questa macchina che altrimenti non sarebbe stata in grado di  accedervi. Oltre alla mancanza dei certificati SSL nativi per la navigazione di siti web HTTPS, arginabile con l'uso di certi browser come [TenFourFox](https://github.com/classilla/tenfourfox), il caricamento e l'uso di pagine complesse avrebbe comunque impedito una navigazione agevole all'utente.
 
-Ho creato un bridge, eseguibile su un computer in grado di lavorare con le API di Reverso, capace di elaborare le risposte e le richieste e inviare i dati ottenuti, tramite la rete LAN, al computer che li ha richiesti. Maggiori infomazioni sulla [pagina del progetto]().
+Ho creato un bridge, eseguibile su un computer in grado di lavorare con le API di Reverso, capace di elaborare le risposte e le richieste e inviare i dati ottenuti, tramite la rete LAN, al computer che li ha richiesti. Maggiori infomazioni sulla [pagina del progetto](https://github.com/francescomattiussi/ReversoContextPPCServer?tab=readme-ov-file).
 
 L'ultima compilazione dell'applicazione si data a giugno 2021 su un sistema PPC, questa build si trova nella sezione delle releases. 
 
